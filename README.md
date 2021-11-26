@@ -4,9 +4,9 @@
 
 [![Years Badge](https://badges.pufler.dev/years/KristiyanEnchev)](https://badges.pufler.dev)
 
-<p align='center'>
+<div align='center'>
 ## 🛠 &nbsp;Tech Stack
-</p>
+</div>
   
 <p align='center'>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
