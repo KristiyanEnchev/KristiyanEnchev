@@ -16,7 +16,7 @@
 
 <div align='center'>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KristiyanEnchev&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KristiyanEnchev&layout=compact&langs_count=6,r&theme=react "/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KristiyanEnchev&layout=compact&langs_count=6,r&theme=react"/>
 </div>
 
 <br>
