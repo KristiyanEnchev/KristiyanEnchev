@@ -28,7 +28,7 @@
 
 ## Connect with me:  🤝🏻
 
-[![Website](https://img.shields.io/website/http/www.website.com/path/to/page.html.svg)](https://kristiyan-enchev-website.web.app)
+[![Website](https://img.shields.io/badge/website-up-green)](https://kristiyan-enchev-website.web.app)
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kristiqn.enchev.5/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kristiyan_e/)
