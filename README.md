@@ -1,7 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi there, I'm Kristiyan Enchev 💻
 
-## Just a person on a Journey of becoming better than his current self!!
-
 [![Years Badge](https://badges.pufler.dev/years/KristiyanEnchev)](https://badges.pufler.dev)
 
 ## 🛠 &nbsp;Tech Stack
