@@ -1,5 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi there, I'm Kristiyan Enchev 💻
 
+## Just a person on a Journey of becoming better than his current self!!
+
 [![Years Badge](https://badges.pufler.dev/years/KristiyanEnchev)](https://badges.pufler.dev)
 
 ## 🛠 &nbsp;Tech Stack
@@ -12,10 +14,8 @@
 
 <br>
 
-<div align='center'>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KristiyanEnchev&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KristiyanEnchev&layout=compact&langs_count=6,r&theme=react"/>
-</div>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KristiyanEnchev&layout=compact&langs_count=6,r&theme=react "/>
 
 <br>
 
