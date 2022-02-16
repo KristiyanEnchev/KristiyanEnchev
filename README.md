@@ -14,7 +14,7 @@
 
 <br>
 <p>
-  <img height="165em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KristiyanEnchev&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
+  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KristiyanEnchev&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
   
   <img height="160em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KristiyanEnchev&layout=compact&langs_count=8&hide=Batchfile,r&theme=react "/>
  </p>
@@ -28,7 +28,7 @@
 
 ## Connect with me:  🤝🏻
 
-[![Website](https://img.shields.io/badge/website-up-green)](https://kristiyan-enchev-website.web.app)  <p>You Can Check My Website</p>
+<p>You Can Check My Website -> </p> [![Website](https://img.shields.io/badge/website-up-green)](https://kristiyan-enchev-website.web.app)
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kristiqn.enchev.5/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kristiyan_e/)
