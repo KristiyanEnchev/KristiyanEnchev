@@ -16,11 +16,11 @@
 </p>
 
 <br>
-<p>
-  <img height="160em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KristiyanEnchev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true "/>
-  
-  <img height="160em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KristiyanEnchev&layout=compact&langs_count=5&hide=Batchfile,r&theme=tokyonight "/>
- </p>
+ <p>
+  <img height="160em" width="360em" alt="My GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KristiyanEnchev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true,r&theme=tokyonight " />
+
+  <img height="160em" width="300em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanEnchev&langs_count=6&layout=compact&hide=Batchfile&hide_border=true&count_private=true&include_all_commits=true,r&theme=tokyonight" />
+</p>
 
 <br>
 
