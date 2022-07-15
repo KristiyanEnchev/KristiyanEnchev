@@ -17,9 +17,9 @@
 
 <br>
 <p>
-  <img height="160em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KristiyanEnchev&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
+  <img height="160em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KristiyanEnchev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true "/>
   
-  <img height="160em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KristiyanEnchev&layout=compact&langs_count=5&hide=Batchfile,r&theme=react "/>
+  <img height="160em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KristiyanEnchev&layout=compact&langs_count=5&hide=Batchfile,r&theme=tokyonight "/>
  </p>
 
 <br>
