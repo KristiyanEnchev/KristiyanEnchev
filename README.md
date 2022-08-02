@@ -2,7 +2,7 @@
 
 ## Just a person on a Journey of becoming better than his current self!!
 
-(https://badges.pufler.dev)<img src="https://visitor-badge.glitch.me/badge?page_id=KristiyanEnchev">
+<img src="https://visitor-badge.glitch.me/badge?page_id=KristiyanEnchev">
 
 ## 🛠 &nbsp;Tech Stack
 <p align='center'>
