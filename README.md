@@ -1,8 +1,4 @@
-### 👋 Hi there, I'm Kristiyan Enchev 💻
-
-## Just a person on a Journey of becoming better than his current self!!
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=KristiyanEnchev">
+### <div style="text-align: center"> 👋 Hi there, I'm Kristiyan Enchev 💻 </div>
 
 ## 🛠 &nbsp;Tech Stack
 <p align='center'>
@@ -16,22 +12,23 @@
 </p>
 
 <br>
- <p>
-  <img height="160em" width="360em" alt="My GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KristiyanEnchev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true,r&theme=tokyonight " />
 
-  <img height="160em" width="300em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanEnchev&langs_count=6&layout=compact&hide=Batchfile&hide_border=true&count_private=true&include_all_commits=true,r&theme=tokyonight" />
+## ⚡GitHub Stats
+
+<a href="https://github.com/KristiyanEnchev">
+
+ <p style="text-align: center">
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KristiyanEnchev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true,r&theme=tokyonight" />
+
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanEnchev&langs_count=6&layout=compact&hide=Batchfile&hide_border=true&count_private=true&include_all_commits=true,r&theme=tokyonight" />
 </p>
+</a>
 
 <br>
 
-- 🌱 I’m currently learning ASP.NET CORE and some React
-- ⚡ Fun fact: I like debuging
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: kristiqnenchevv@gmail.com
+## You Can Check My Portfolio: [![Website](https://img.shields.io/badge/website-up-green)](https://kristiyan-enchev-website.web.app)
 
 ## Connect with me:  🤝🏻
-
-## You Can Check My Website: [![Website](https://img.shields.io/badge/website-up-green)](https://kristiyan-enchev-website.web.app)
 
 [![Facebook](https://img.shields.io/badge/kristiyan.enchev-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kristiqn.enchev.5/) [![Instagram](https://img.shields.io/badge/kristiyan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kristiyan_e/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristiqnenchevv@gmail.com)
