@@ -18,9 +18,9 @@
 <a href="https://github.com/KristiyanEnchev">
 
  <p style="text-align: center">
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KristiyanEnchev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true,r&theme=tokyonight" />
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KristiyanEnchev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanEnchev&langs_count=6&layout=compact&hide=Batchfile&hide_border=true&count_private=true&include_all_commits=true,r&theme=tokyonight" />
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanEnchev&langs_count=6&layout=compact&hide=Batchfile&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
 </a>
 
