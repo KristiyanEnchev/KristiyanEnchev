@@ -26,9 +26,13 @@
   <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
@@ -36,7 +40,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
-
 
 ---
 
@@ -46,14 +49,14 @@
  <p style="text-align: center">
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KristiyanEnchev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanEnchev&langs_count=6&layout=compact&hide=Batchfile&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanEnchev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
 </a>
 <br>
 
 ---
 
-## Connect with me:  🤝🏻
+## 🤝 Connect with me:
 
 <p align="center">
   <a href="https://www.facebook.com/kristiqn.enchev.5/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
