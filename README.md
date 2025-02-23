@@ -1,20 +1,46 @@
-### <div style="text-align: center"> 👋 Hi there, I'm Kristiyan Enchev 💻 </div>
- 
-## 🛠 &nbsp;Tech Stack
+<h1 align="center"> 👋 Hi there, I'm Kristiyan Enchev 💻 </h1>
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/ASP.NET Core-1572F1?style=for-the-badge&logo=asp.net&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<p align="center">
+  Passionate Full-Stack Developer | .NET | React | Clean Architecture | TypeScript | DevOps Enthusiast
 </p>
 
-<br>
+---
 
-## ⚡GitHub Stats
+## 🚀 About Me
+
+- 💡 Passionate about building scalable and efficient web applications.
+- 🏗️ Strong believer in **Clean Architecture**, **DDD**, and **Design Patterns**.
+- 🛠️ Experienced in **Backend Development (C#/.NET)** and **Frontend Development (React/Vite/TypeScript)**.
+- 📌 Exploring **DevOps**, **Cloud Computing**, and **CI/CD Pipelines**.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET Core-5C2D91?style=for-the-badge&logo=asp.net&logoColor=white">
+  <img src="https://img.shields.io/badge/Entity Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+
+
+---
+
+## ⚡ GitHub Stats
 
 <a href="https://github.com/KristiyanEnchev">
  <p style="text-align: center">
@@ -25,9 +51,18 @@
 </a>
 <br>
 
-## You Can Check My Portfolio: [![Website](https://img.shields.io/badge/website-up-green)](https://kristiyan-enchev-website.web.app)
+---
 
 ## Connect with me:  🤝🏻
 
-[![Facebook](https://img.shields.io/badge/kristiyan.enchev-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kristiqn.enchev.5/) [![Instagram](https://img.shields.io/badge/kristiyan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kristiyan_e/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristiqnenchevv@gmail.com)
+<p align="center">
+  <a href="https://www.facebook.com/kristiqn.enchev.5/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/kristiyan_e/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="mailto:kristiqnenchevv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 🔥 My Portfolio : [![Website](https://img.shields.io/badge/Portfolio-Up%20%F0%9F%9A%80-brightgreen)](https://kristiyan-enchev-website.web.app)
+
+---
