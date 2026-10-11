@@ -32,17 +32,17 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=KristiyanEnchev&show_icons=true&hide_border=true&hide_rank=true&theme=tokyonight&include_all_commits=true
+          options: username=KristiyanEnchev&show_icons=true&hide_border=true&hide_rank=false&theme=tokyonight&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.PRIVATE_STATS_TOKEN }}
           fail_on_error: true
 
-      - name: Generate GitHub statistics
+      - name: Generate most-used languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: stats
-          options: username=KristiyanEnchev&show_icons=true&hide_border=true&hide_rank=true&theme=tokyonight&include_all_commits=true
-          path: profile/stats.svg
+          card: top-langs
+          options: username=KristiyanEnchev&layout=compact&langs_count=6&hide_border=true&theme=tokyonight
+          path: profile/top-langs.svg
           token: ${{ secrets.PRIVATE_STATS_TOKEN }}
           fail_on_error: true
 
