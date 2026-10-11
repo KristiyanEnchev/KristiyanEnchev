@@ -37,12 +37,12 @@ jobs:
           token: ${{ secrets.PRIVATE_STATS_TOKEN }}
           fail_on_error: true
 
-      - name: Generate most-used languages
+      - name: Generate GitHub statistics
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: top-langs
-          options: username=KristiyanEnchev&layout=compact&langs_count=6&hide_border=true&theme=tokyonight
-          path: profile/top-langs.svg
+          card: stats
+          options: username=KristiyanEnchev&show_icons=true&hide_border=true&hide_rank=true&theme=tokyonight&include_all_commits=true
+          path: profile/stats.svg
           token: ${{ secrets.PRIVATE_STATS_TOKEN }}
           fail_on_error: true
 
